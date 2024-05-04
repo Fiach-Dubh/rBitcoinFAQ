@@ -39,6 +39,7 @@ Some other great educational resources include;
 * James D'Angelo's [Bitcoin 101 Blackboard series](https://www.youtube.com/watch?v=Bhe61JaNFLU&list=PLzctEq7iZD-7-DgJM604zsndMapn9ff6q&index=7&t=0s)
 * Parker Lewis's [Gradually Then Suddenly series](https://unchained.com/blog/category/gradually-then-suddenly/)
 * Some Bitcoin statistics can be found here ([1](https://www.lookintobitcoin.com/), [2](https://data.bitcoinity.org/bitcoin/hashrate/6m?c=m&g=15&r=week&t=a), [3](https://bitcoinvisuals.com/), [4](https://bitcoin.clarkmoody.com/dashboard/), [5](https://studio.glassnode.com/workbench/btc-price-performance-since-halving), [6](https://augmentedcoin.io/btc)).
+* [A Curriculum Like Reading List of Advanced Bitcoin Books](https://new.reddit.com/r/Bitcoin/comments/1c5fjhn/advanced_bitcoin_reading_list_curriculum_in_order/)
 
 If you are technically or academically inclined check out;
 
@@ -217,7 +218,7 @@ Project | Description
 [Hivemind](http://bitcoinhivemind.com/) | Prediction markets
 [Tierion](https://tierion.com/) and [Factom](http://factom.org/) | Records & Titles on the blockchain
 [BitMarkets](https://voluntary.net/bitmarkets/), and [DropZone](https://github.com/17Q4MX2hmktmpuUKHFuoRmS5MfB5XPbhod/dropzone) and [Beaver](https://eprint.iacr.org/2016/464.pdf) | Decentralized markets
-[JoinMarket](https://github.com/chris-belcher/joinmarket), [Samourai Whirlpool](https://samouraiwallet.com/whirlpool), and [Wasabi](https://docs.wasabiwallet.io/using-wasabi/CoinJoin.html) | CoinJoin implementation
+[JoinMarket](https://github.com/chris-belcher/joinmarket) / [JAM app](https://www.youtube.com/watch?v=FbyjG2upGO8) | CoinJoin implementation
 [Peer-to-Peer Exchanges](https://github.com/cointastical/P2P-Trading-Exchanges/) | Peer-to-peer exchanges
 [Keybase](https://keybase.io/) | Identity & Reputation management
 [Abra](https://www.goabra.com/) | Global P2P money transmitter network
