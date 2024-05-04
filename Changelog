@@ -1,0 +1,13 @@
+Origional version was posted by u/Bitcoinfan7 here https://www.reddit.com/r/Bitcoin/comments/16bm9de/bitcoin_newcomers_faq_please_read/
+
+General updating of links were made
+
+Removal of samouri and wasabi mentions, as they are now depricated.
+
+Addition of a starting section focused on Bitcoin Core node software and links, with some mention of software wallets and hardware wallets. 
+Intent is to emphasis what matters in Bitcoin. ie run a node, verify, open source bitcoin only wallet best practises etc.
+
+The exchange list was reordered to highlight the P2P options first, followed by Bitcoin only exchange options. The altcoin exchanges were removed.
+This is an ideological choice you may not share. I admit that and am not ashamed to own it.
+
+This is still a work in progress, open to suggestions for modification, hence this gtihub where PR's can be made in the open by anyone.
